@@ -7,6 +7,7 @@ Um sistema de gerenciamento de tarefas desenvolvido com Laravel, que inclui func
 - **Cadastro de Usuários**: Os usuários podem se cadastrar e recebem um link de confirmação por e-mail para verificar sua conta.
 - **Gerenciamento de Tarefas**: Os usuários podem criar, editar e excluir tarefas.
 - **Notificação por E-mail**: Envio de e-mails de notificação ao cadastrar novas tarefas.
+- **Exportação de tarefas cadastradas em PDF, XLSX e CSV.** Usuários podem fazer downloads das tarefas cadastradas
 
 ## Tecnologias Utilizadas
 
